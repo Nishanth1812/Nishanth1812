@@ -1,71 +1,103 @@
-# 👋 Hi, I'm Nishanth
+<div align="center">
 
-🎓 **B.Tech in Computer Science & Engineering (Artificial Intelligence)**  
-📍 Amrita Vishwa Vidyapeetham, Amritapuri  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Nishanth+%F0%9F%91%8B;CSE+(AI)+%40+Amrita+Amritapuri;I+build+ML+systems+that+actually+ship" alt="Typing SVG" />
 
-I am an **AI and Deep Learning enthusiast** focused on building **end-to-end intelligent systems** that combine machine learning, backend engineering, and real-world deployment.
+<br/>
 
-My work involves designing **production-ready AI pipelines**, developing **full-stack ML applications**, and exploring **advanced AI architectures** for real-world impact.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishanthdevabathini)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nishanth_1812)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/nishanth_1812)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dn8.porps@gmail.com)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=Nishanth1812&style=flat-square&color=58A6FF&label=views)
 
----
-
-# 🚀 Areas of Interest
-
-- Deep Learning & Neural Networks  
-- Applied Machine Learning Systems  
-- Agentic AI Systems  
-- Reinforcement Learning  
-- Computer Vision  
-- AI-driven Automation  
+</div>
 
 ---
 
-# 🧰 Tech Stack
-
-### Programming
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Data & Scientific Computing
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Backend & Infrastructure
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-White?style=for-the-badge&logo=opencv&logoColor=black)
+```yaml
+name      : Nishanth Devabathini
+degree    : B.Tech CSE (Artificial Intelligence)
+college   : Amrita Vishwa Vidyapeetham, Amritapuri
+focus     : End-to-end ML systems · Agentic AI · Scalable backends
+currently : Bridging the gap between research and production
+```
 
 ---
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nishanth1812&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nishanth1812&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+## What I actually do
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nishanth1812&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+I don't just train models — I build the full system around them.
+Pipelines, APIs, deployment, monitoring — the parts that make ML real outside a notebook.
+
+I'm most interested in the space where **AI meets systems engineering**: getting models to run reliably, scale properly, and actually solve something useful. Right now I'm spending a lot of time with **agentic workflows**, **reinforcement learning**, and **backend infra for ML**.
+
 ---
 
-# 🌐 Connect With Me
+## 🛠️ Tech I use
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishanthdevabathini)
+<table>
+<tr>
+<td valign="top">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white)](https://instagram.com/nishanth_1812)
+**ML & DL**
+<br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/nishanth_1812)
+</td>
+<td valign="top">
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dn8.porps@gmail.com)
+**Languages**
+<br/>
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+</td>
+<td valign="top">
+
+**Backend & Infra**
+<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nishanth1812&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishanth1812&theme=tokyonight" width="100%" />
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nishanth1812&theme=tokyonight" width="32%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nishanth1812&theme=tokyonight" width="32%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nishanth1812&theme=tokyonight" width="32%" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Working on something interesting in AI or systems? Let's talk.</sub>
+</div>
