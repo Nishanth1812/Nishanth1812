@@ -48,21 +48,16 @@ My work involves designing **production-ready AI pipelines**, developing **full-
 ![OpenCV](https://img.shields.io/badge/OpenCV-White?style=for-the-badge&logo=opencv&logoColor=black)
 
 ---
+## 📊 GitHub Statistics
 
-# 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nishanth1812&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nishanth1812&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishanth1812&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nishanth1812&theme=one_dark_pro&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanth1812&theme=one_dark_pro&hide_border=true&layout=compact)
-
----
-
-# 🏆 GitHub Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Nishanth1812&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nishanth1812&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 ---
 
 # 🌐 Connect With Me
