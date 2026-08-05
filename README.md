@@ -52,21 +52,3 @@ My interests include machine learning engineering, agentic AI systems, backend a
 </div>
 
 ---
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nishanth1812&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanth1812&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Nishanth1812&theme=github-dark-blue&hide_border=true" />
-
-</div>
